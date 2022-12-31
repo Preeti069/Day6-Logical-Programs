@@ -6,10 +6,8 @@ namespace LoicalPrograms
     {
         public static void Main(string[] args)
         {
-            FibonacciSeries.DisplayFibo();
-            
-
-
+            //FibonacciSeries.DisplayFibo();
+              PerfectNumber.Display();
         }
     }
 
