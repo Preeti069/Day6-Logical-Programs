@@ -7,8 +7,9 @@ namespace LoicalPrograms
         public static void Main(string[] args)
         {
             //FibonacciSeries.DisplayFibo();
-              PerfectNumber.Display();
-        }
-    }
+            // PerfectNumber.Display();
+            PrimeNumber.display();
 
+        }
+    } 
 }
